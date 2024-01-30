@@ -1,4 +1,4 @@
-#Programacion_(POO)
+#ProgramacionOrientadaObjetos_(POO)
 class RegistroClima:
     def __init__(self):
         self.temperaturas_diarias = []

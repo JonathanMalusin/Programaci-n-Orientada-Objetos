@@ -17,8 +17,24 @@ def mostrar_menu():
     ruta_base = os.path.dirname(__file__)
 
     opciones = {
-        '1': 'Unidad 1/1.2. Tecnicas de Programacion/1.2-1. Ejemplo Tecnicas de Programacion.py',
-        # Agrega aquí el resto de las rutas de los scripts
+        #Archivos Semana 1
+        '1': 'Semana1 - Fundamentos de la Programación orientada a objetos - POO/1.1_EjemploTecnicasProgramacion.py',
+        #Archivos Semana 2
+        '2': 'Semana2 - Desarrollo de Ejemplos de Técnicas de Programación/2_EjemplosPracticos_Abstracción.py',
+        '2.1': 'Semana2 - Desarrollo de Ejemplos de Técnicas de Programación/2.1_EjemplosPracticos_Encapsulamiento.py',
+        '2.2': 'Semana2 - Desarrollo de Ejemplos de Técnicas de Programación/2.2_EjemplosPracticos_Herencia.py',
+        '2.3': 'Semana2 - Desarrollo de Ejemplos de Técnicas de Programación/2.3_EjemplosPracticos_Polimorfismo.py',
+        #Archivos Semana 3
+        '3': 'Semana3 - Programación Tradicional y POO/3_Programación Orientada a Objetos (POO).py',
+        '3.1': 'Semana3 - Programación Tradicional y POO/3.1_Programación Tradicional.py',
+        #Archivos Semana 4
+        '4': 'Semana4 - Carasterísticas de la Programación Orientada a Objetos/4.1_Tienda.py',
+        #Archivos Semana 5
+        '5': 'Semana5 - Tipos de datos, Identificadores/5.1_AreaRectangulo.py',
+        #Archivos Semana 6
+        '6': 'Semana6 - Clases, objetos, herencia, encapsulamiento y polimorfismo/6.1_Animal.py',
+        #Archivos Semana 7
+        '7': 'Semana7 - Constructores y Destructores/7.1_Televisor.py',
     }
 
     while True:
