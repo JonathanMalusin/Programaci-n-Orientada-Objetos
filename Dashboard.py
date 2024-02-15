@@ -35,6 +35,7 @@ def mostrar_menu():
         '6': 'Semana6 - Clases, objetos, herencia, encapsulamiento y polimorfismo/6.1_Animal.py',
         #Archivos Semana 7
         '7': 'Semana7 - Constructores y Destructores/7.1_Televisor.py',
+        '9': 'Semana9 - Estructura de Datos/9.1_InventarioSimple.py',
     }
 
     while True:
@@ -53,7 +54,6 @@ def mostrar_menu():
             mostrar_codigo(ruta_script)
         else:
             print("Opción no válida. Por favor, intenta de nuevo.")
-
 
 # Ejecutar el dashboard
 if __name__ == "__main__":
