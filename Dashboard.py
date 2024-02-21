@@ -36,6 +36,7 @@ def mostrar_menu():
         #Archivos Semana 7
         '7': 'Semana7 - Constructores y Destructores/7.1_Televisor.py',
         '9': 'Semana9 - Estructura de Datos/9.1_InventarioSimple.py',
+        '10': 'Semana10 - Manipulación de archivos y manejo de excepciones/10.1_InventarioMejorado.py',
     }
 
     while True:
