@@ -37,6 +37,7 @@ def mostrar_menu():
         '7': 'Semana7 - Constructores y Destructores/7.1_Televisor.py',
         '9': 'Semana9 - Estructura de Datos/9.1_InventarioSimple.py',
         '10': 'Semana10 - Manipulación de archivos y manejo de excepciones/10.1_InventarioMejorado.py',
+        '11': 'Semana11 - Sistema Avanzado de Gestion de Inventario/11.1_Inventario_SAGI_11.py',
     }
 
     while True:
