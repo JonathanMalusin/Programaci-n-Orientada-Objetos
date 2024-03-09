@@ -73,4 +73,4 @@ if __name__ == "__main__":
     print("Libros prestados a", usuario1.nombre + ":")
     for libro in mi_biblioteca.listar_libros_prestados(usuario1):
         print(f"- {libro.titulo} ({libro.autor[0]})")
-        ##·
+        ###
